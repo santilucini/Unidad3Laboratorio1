@@ -1,0 +1,11 @@
+C:\Users\campo\Desktop\Santi\UTN\3er Año\.Net\Unidad3\U3L1\U3L1\bin\Debug\U3L1.exe.config
+C:\Users\campo\Desktop\Santi\UTN\3er Año\.Net\Unidad3\U3L1\U3L1\bin\Debug\U3L1.exe
+C:\Users\campo\Desktop\Santi\UTN\3er Año\.Net\Unidad3\U3L1\U3L1\bin\Debug\U3L1.pdb
+C:\Users\campo\Desktop\Santi\UTN\3er Año\.Net\Unidad3\U3L1\U3L1\obj\Debug\U3L1.csprojAssemblyReference.cache
+C:\Users\campo\Desktop\Santi\UTN\3er Año\.Net\Unidad3\U3L1\U3L1\obj\Debug\U3L1.Properties.Resources.resources
+C:\Users\campo\Desktop\Santi\UTN\3er Año\.Net\Unidad3\U3L1\U3L1\obj\Debug\U3L1.csproj.GenerateResource.cache
+C:\Users\campo\Desktop\Santi\UTN\3er Año\.Net\Unidad3\U3L1\U3L1\obj\Debug\U3L1.csproj.CoreCompileInputs.cache
+C:\Users\campo\Desktop\Santi\UTN\3er Año\.Net\Unidad3\U3L1\U3L1\obj\Debug\U3L1.exe
+C:\Users\campo\Desktop\Santi\UTN\3er Año\.Net\Unidad3\U3L1\U3L1\obj\Debug\U3L1.pdb
+C:\Users\campo\Desktop\Santi\UTN\3er Año\.Net\Unidad3\U3L1\U3L1\obj\Debug\U3L1.formMain.resources
+C:\Users\campo\Desktop\Santi\UTN\3er Año\.Net\Unidad3\U3L1\U3L1\obj\Debug\U3L1.formLogin.resources
